@@ -10,6 +10,7 @@ from firebase_admin import credentials
 from firebase_admin import db
 from firebase_admin import storage
 
+#Credentialss
 cred = credentials.Certificate("serviceAccountKey.json")
 firebase_admin.initialize_app(cred, {
     'databaseURL': '',  # add URL of the database here.
