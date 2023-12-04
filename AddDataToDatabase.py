@@ -13,7 +13,7 @@ data = {
     '211061101396': {
         "name": "Sayed Majid Ali",
         "major": "computer Science",
-        "start_year": 2020,
+        "start_year": 2021,
         "total_attendance": 11,
         "standing": "Good",
         "year": 4,
