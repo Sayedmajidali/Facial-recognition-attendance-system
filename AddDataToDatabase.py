@@ -10,8 +10,8 @@ firebase_admin.initialize_app(cred, {
 ref = db.reference('students')
 
 data = {
-    '201061101617': {
-        "name": "Animesh Raj",
+    '211061101396': {
+        "name": "Sayed Majid Ali",
         "major": "computer Science",
         "start_year": 2020,
         "total_attendance": 11,
